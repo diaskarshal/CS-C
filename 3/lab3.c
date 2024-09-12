@@ -16,7 +16,8 @@ int main(){
             sum+=copy%10;
             copy/=10;
         }
-        
+        if(sum==1)
+            continue;
         for(int j = 2; j*j<=sum; j++){
             if(sum%j==0){
                 check = 0;
