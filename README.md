@@ -1,1 +1,5 @@
-﻿# C language CS labs
+﻿# Computer Science Laboratory Works
+ 
+## Getting familiar with C language
+
+:)
